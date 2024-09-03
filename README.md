@@ -4,7 +4,7 @@
 
 Passionate about building robust, scalable applications and streamlining development processes. I love tackling complex problems and creating efficient solutions.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reda-lahrache)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reda-lahrache-8bb3b01b3/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/LAHRACHE-Reda)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:reda.lahrache@outlook.com)
 
