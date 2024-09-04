@@ -8,6 +8,8 @@ Passionate about building robust, scalable applications and streamlining develop
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/LAHRACHE-Reda)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:reda.lahrache@outlook.com)
 
+### [My Portfolio](https://lahrache-reda.github.io/personal-portfolio)
+
 ### 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
