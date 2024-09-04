@@ -24,7 +24,7 @@ Passionate about building robust, scalable applications and streamlining develop
 
 ### 🚀 Featured Projects
 
-1. **Dentist SASS Management**
+1. **SaaS Dental Practices Management**
    - Cloud-based solution for managing dental practices
    - _Tech: Java 17, Spring Boot, Angular, NextJS, Docker, Kubernetes_
 
